@@ -116,7 +116,7 @@ Optional dependencies
 
 to make sure if the opencv is instaled or not run the following command 
 
-`pkg-config --modversion opencv3`
+`pkg-config --modversion opencv`
 
 it will print the opencv version 
-(if you installing opencv 4 "use pkg-config --modversion opencv4")
+
