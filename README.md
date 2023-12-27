@@ -1,7 +1,7 @@
-# opencv
+# OpenCV_Installation
 Installing and setting up Opencv 3.4 on Ubuntu for C++
 
-First you should install some libraries before installing opencv 
+First, you should install some libraries before installing opencv 
 
 `sudo apt -y remove x264 libx264-dev`
 
